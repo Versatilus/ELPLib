@@ -1,0 +1,4 @@
+[style]
+based_on_style=pep8
+indent_dictionary_value=True
+split_complex_comprehension=True
